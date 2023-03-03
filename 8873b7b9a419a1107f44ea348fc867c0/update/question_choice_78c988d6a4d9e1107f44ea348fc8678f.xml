@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="What is the reason for travel?">ff988496a4d9e1107f44ea348fc86786</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-02 15:52:50</sys_created_on>
+        <sys_id>78c988d6a4d9e1107f44ea348fc8678f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Internal</sys_name>
+        <sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope>
+        <sys_update_name>question_choice_78c988d6a4d9e1107f44ea348fc8678f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-02 15:52:50</sys_updated_on>
+        <text>Internal</text>
+        <value>internal</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=78c988d6a4d9e1107f44ea348fc8678f"/>
+</record_update>

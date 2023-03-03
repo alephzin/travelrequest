@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Raise Travel Request ">7aa7c056a4d9e1107f44ea348fc8676d</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-02 15:45:42</sys_created_on>
+        <sys_id>54284c56a4d9e1107f44ea348fc8674e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Raise Travel Request </sys_name>
+        <sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_54284c56a4d9e1107f44ea348fc8674e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-02 15:45:42</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</application>
+        <file_path/>
+        <instance_id>abe2f6a597d5e910ed309a34a253af40</instance_id>
+        <instance_name>crwf-feb-543-001-instructor</instance_name>
+        <name>sc_cat_item_catalog_54284c56a4d9e1107f44ea348fc8674e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise Travel Request ">7aa7c056a4d9e1107f44ea348fc8676d</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-02 15:45:42</sys_created_on><sys_id>54284c56a4d9e1107f44ea348fc8674e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Raise Travel Request </sys_name><sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package><sys_policy/><sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope><sys_update_name>sc_cat_item_catalog_54284c56a4d9e1107f44ea348fc8674e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-02 15:45:42</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-480159626</payload_hash>
+        <record_name>Service Catalog.Raise Travel Request </record_name>
+        <reverted_from/>
+        <source>8073b7b9a419a1107f44ea348fc867c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-02 15:45:42</sys_created_on>
+        <sys_id>5c284c56a4d9e1107f44ea348fc86751</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186a3002c380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-02 15:45:42</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>d0284c56aad9e110a242c62ef83e6851</update_guid>
+        <update_guid_history>d0284c56aad9e110a242c62ef83e6851:-480159626</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Raise Travel Request ">fb38cc56a4d9e1107f44ea348fc8679e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-02 15:46:13</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>04b199e1da3b49008019d6b54bf52900</sys_id>
+        <sys_metadata>54284c56a4d9e1107f44ea348fc8674e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Raise Travel Request </sys_name>
+        <sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package>
+        <sys_parent display_value="Raise Travel Request ">7aa7c056a4d9e1107f44ea348fc8676d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope>
+        <sys_scope_delete display_value="">2e58345472b64f00a230c31df0174144</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_54284c56a4d9e1107f44ea348fc8674e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_54284c56a4d9e1107f44ea348fc8674e">5c284c56a4d9e1107f44ea348fc86751</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-02 15:46:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

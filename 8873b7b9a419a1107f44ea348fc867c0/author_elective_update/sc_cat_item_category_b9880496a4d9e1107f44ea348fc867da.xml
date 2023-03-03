@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Raise Travel Request ">7aa7c056a4d9e1107f44ea348fc8676d</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-02 15:47:26</sys_created_on>
+        <sys_id>b9880496a4d9e1107f44ea348fc867da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Raise Travel Request </sys_name>
+        <sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope>
+        <sys_update_name>sc_cat_item_category_b9880496a4d9e1107f44ea348fc867da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-02 15:47:26</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</application>
+        <file_path/>
+        <instance_id>abe2f6a597d5e910ed309a34a253af40</instance_id>
+        <instance_name>crwf-feb-543-001-instructor</instance_name>
+        <name>sc_cat_item_category_b9880496a4d9e1107f44ea348fc867da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise Travel Request ">7aa7c056a4d9e1107f44ea348fc8676d</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-02 15:47:26</sys_created_on><sys_id>b9880496a4d9e1107f44ea348fc867da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Raise Travel Request </sys_name><sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package><sys_policy/><sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope><sys_update_name>sc_cat_item_category_b9880496a4d9e1107f44ea348fc867da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-02 15:47:26</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-568326478</payload_hash>
+        <record_name>Can We Help You?.Raise Travel Request </record_name>
+        <reverted_from/>
+        <source>8073b7b9a419a1107f44ea348fc867c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-02 15:47:26</sys_created_on>
+        <sys_id>35880496a4d9e1107f44ea348fc867de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186a301c1c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-02 15:47:26</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b988049625d9e1108930f6b78e46c8dd</update_guid>
+        <update_guid_history>b988049625d9e1108930f6b78e46c8dd:-568326478</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Raise Travel Request ">65c9c8d6a4d9e1107f44ea348fc86733</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-02 15:52:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>bba8d0a14dec468fb79cb5b92bc6f7b1</sys_id>
+        <sys_metadata>b9880496a4d9e1107f44ea348fc867da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Raise Travel Request </sys_name>
+        <sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope>
+        <sys_scope_delete display_value="">2e58345472b64f00a230c31df0174144</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b9880496a4d9e1107f44ea348fc867da</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b9880496a4d9e1107f44ea348fc867da">35880496a4d9e1107f44ea348fc867de</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-02 15:52:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Raise Travel Request ">7aa7c056a4d9e1107f44ea348fc8676d</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-02 15:52:53</sys_created_on>
+        <sys_id>29c9c8d6a4d9e1107f44ea348fc86736</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Raise Travel Request </sys_name>
+        <sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope>
+        <sys_update_name>sc_cat_item_category_29c9c8d6a4d9e1107f44ea348fc86736</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-02 15:52:53</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
