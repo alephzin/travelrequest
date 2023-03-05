@@ -65,7 +65,7 @@
         <update_guid_history>30b47b3d5e19a110f6b5238538b7000b:677325558</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Travel Req 0 1677699737958">99d43f3da419a1107f44ea348fc867bc</sys_audit_delete>
+        <sys_audit_delete display_value="">99d43f3da419a1107f44ea348fc867bc</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-01 19:42:55</sys_created_on>

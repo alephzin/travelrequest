@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Imp Tmpl X Snc Travel Req 0 Airport" language="en" table="u_imp_tmpl_x_snc_travel_req_0_airport">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Imp Tmpl X Snc Travel Req 0 Airport</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_snc_travel_req_0_airport</name>
+            <plural>Imp Tmpl X Snc Travel Req 0 Airports</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-05 23:33:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Imp Tmpl X Snc Travel Req 0 Airport</sys_name>
+            <sys_package display_value="Travel Request" source="x_snc_travel_req_0">8873b7b9a419a1107f44ea348fc867c0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Request">8873b7b9a419a1107f44ea348fc867c0</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_snc_travel_req_0_airport__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-05 23:33:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

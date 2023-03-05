@@ -41,7 +41,7 @@
         <update_guid_history>bf38cc5685d9e1107721285a961311b1:-480159626</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Raise Travel Request ">a1880496a4d9e1107f44ea348fc867c8</sys_audit_delete>
+        <sys_audit_delete display_value="">a1880496a4d9e1107f44ea348fc867c8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-02 15:47:26</sys_created_on>

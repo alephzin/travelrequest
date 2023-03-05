@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e2ff419b87d5ed10a16ebae4dabb35bb" extends="sys_import_set_row" label="Imp Tmpl X Snc Travel Req 0 Airport" max_length="40" name="u_imp_tmpl_x_snc_travel_req_0_airport" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=city" label="city" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=code" label="code" max_length="40" name="u_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=country" label="country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=icao" label="icao" max_length="40" name="u_icao" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lat" label="lat" max_length="40" name="u_lat" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lon" label="lon" max_length="40" name="u_lon" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="43" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=state" label="state" max_length="40" name="u_state" type="string"/>
+    </element>
+</database>
